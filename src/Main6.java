@@ -33,13 +33,13 @@ public class Main6 {
 // дописать!//
 
         /* break - выход из цикла при срабатывании условия
-        continue -
+        continue -test
          */
         int x = 20;
         while (x > 2) {
             System.out.println("variable x = " + x);
             x--;
-            if (x == 13) {break};
+            /*if (x == 13) {break};*/
         }
     }
 }
